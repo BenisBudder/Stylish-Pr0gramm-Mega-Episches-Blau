@@ -1,1 +1,62 @@
-#head-menu a:hover, #filter-link-name:hover, #user-profile-name:hover, .comment-reply-link, .tags-expand, .add-tags-link, .vote-up:hover, .vote-fav:hover, #search-submit-inline:hover, .tab-bar a:hover, .tab-bar a:active, .pict .vote-fav.faved, .head-link.empty:hover, .head-link:hover, .tag a[title="Removing tag"], a[href="/inbox/unread"], .filter-setting.active, .active .filter-name, a.active{    color: #008fff !important;  }#settings-logout-link:hover{	color: #FFF;}.comment.voted-up .pict .vote-up, .item-vote.voted-up .pict .vote-up, .tag.tag-bad.voted-up .vote-up, .tag.tag-good.voted-up .vote-up, .filter-setting .active .warn, #settings-logout-link, .comment .voted-up .pict .vote-up, .warn {	color: #008fff;}.confirm, .confirm-button{	background: #008fff;}#filter-save:hover, input[value=Abschicken], .search-submit, input[value='Nachricht senden'], .user-follow, input[value='Einstellungen speichern'], input[value='E-Mail Adresse Šndern'], input[value='Passwort Šndern']{	background: #008fff !important;	opacity:1;}input[type=submit]:hover, .user-follow:hover{	background: #fff !important;}#filter-save{	background: #008fff !important;	opacity:0.7;}.stream-prev .stream-prev-icon, .stream-next .stream-next-icon{	background: #008fff !important;}.filter-setting.active .filter-check{	background: #008fff !important;	border-color:#008fff !important;}#upload-droparea{    border: 1px #008fff solid !important;}#pr0gramm-logo{content:url("http://cloud.directupload.net/plugins/imageviewer/site/direct.php?s=d250");	}#gpt-divider-rectangle{	display:none !important;}
+#head-menu a:hover, #filter-link-name:hover, #user-profile-name:hover, .comment-reply-link, .tags-expand, .add-tags-link, .vote-up:hover, .vote-fav:hover, #search-submit-inline:hover, .tab-bar a:hover, .tab-bar a:active, .pict .vote-fav.faved, .head-link.empty:hover, .head-link:hover, .tag a[title="Removing tag"], a[href="/inbox/unread"], .filter-setting.active, .active .filter-name, a.active, .faved, .voted-up .vote-up, .warn
+{
+    color: #008fff !important;  
+}
+
+#settings-logout-link:hover
+{
+	color: #FFF;
+}
+
+#settings-logout-link
+{
+	color: #008fff;
+}
+
+.confirm, .confirm-button
+{
+	background: #008fff;
+}
+
+#filter-save:hover, input[value=Abschicken], .search-submit, input[value='Nachricht senden'], .user-follow, input[value='Einstellungen speichern'], input[value='E-Mail Adresse Ã¤ndern'], input[value='Passwort Ã¤ndern'], input[value='Einladung verschicken']
+{
+	background: #008fff !important;
+	opacity:1;
+}
+
+input[type=submit]:hover, .user-follow:hover
+{
+	background: #fff !important;
+}
+
+#filter-save
+{
+	background: #008fff !important;
+	opacity:0.7;
+}
+
+.stream-prev .stream-prev-icon, .stream-next .stream-next-icon
+{
+	background: #008fff !important;
+}
+
+.filter-setting.active .filter-check
+{
+	background: #008fff !important;
+	border-color:#008fff !important;
+}
+
+#upload-droparea
+{
+    border: 1px #008fff solid !important;
+}
+
+#pr0gramm-logo
+{
+content:url("http://cloud.directupload.net/plugins/imageviewer/site/direct.php?s=d250");	
+}
+
+#gpt-divider-rectangle
+{
+	display:none !important;
+}
