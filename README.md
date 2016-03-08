@@ -13,7 +13,9 @@ Fügt den Code, der in den .txt auf euren Browser zutrifft in die Stylish CSS Ze
 
 Unten bei Applies to müsst ihr den Pr0 Link angeben.
 z.B.: 
+
 Applies to "URL" "pr0gramm.com"
+
 Applies to "URL preffex" "pr0gramm.com"
 
 etc.
