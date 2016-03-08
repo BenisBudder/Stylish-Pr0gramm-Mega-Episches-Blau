@@ -4,7 +4,9 @@ http://pr0gramm.com/user/BenisBudder/uploads/1152173
 Zum benutzen des Codes braucht Ihr das Browser-Addon Stylish.
 
 Safari: extensions.apple.com/details/?id=com.sobolev.stylish-5555L95H45
+
 Google Chrome: chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=de
+
 Mozilla Firefox: addons.mozilla.org/de/firefox/addon/stylish/?src=ss#id=2108 
 
 Fügt den Code, der in den .txt auf euren Browser zutrifft in die Stylish CSS Zeile ein.
