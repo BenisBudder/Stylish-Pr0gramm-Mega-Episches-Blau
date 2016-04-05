@@ -14,7 +14,7 @@ a:hover, .tags-expand:hover, #settings-logout-link:hover
 	background: #008fff;
 }
 
-#filter-save:hover, input[value=Abschicken], .search-submit, input[value='Nachricht senden'], .user-follow, input[value='Einstellungen speichern'], input[value='E-Mail Adresse ändern'], input[value='Passwort ändern'], input[value='Einladung verschicken'], input[value='Tags speichern'], .user-comment-op
+#filter-save:hover, input[value=Abschicken], .search-submit, input[value='Nachricht senden'], .user-follow, input[value='Einstellungen speichern'], input[value='E-Mail Adresse ändern'], input[value='Passwort ändern'], input[value='Einladung verschicken'], input[value='Tags speichern'], .user-comment-op, input[value='Anmelden'], input[value='Anmelden']
 {
 	background: #008fff !important;
 	opacity:1;
@@ -55,4 +55,9 @@ content:url("http://cloud.directupload.net/plugins/imageviewer/site/direct.php?s
 #gpt-divider-rectangle
 {
 	display:none !important;
+}
+
+.confirm-button:hover
+{
+	color: #000 !important;
 }
