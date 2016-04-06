@@ -49,7 +49,17 @@ input[type=submit]:hover, .user-follow:hover
 
 #pr0gramm-logo
 {
-content:url("http://cloud.directupload.net/plugins/imageviewer/site/direct.php?s=d250") !important;	
+  /*content:url("http://cloud.directupload.net/plugins/imageviewer/site/direct.php?s=d250") !important;	*/
+	width:0px;
+	height:0px;
+	padding: 8.9px 60px;
+	/*242 x 36
+	217,8 x 32,4
+	193,6 x 28,8
+	*/
+	background-image: url("http://cloud.directupload.net/plugins/imageviewer/site/direct.php?s=d250");
+	background-size: 120px 17.8px;
+	background-repeat: no-repeat;
 }
 
 #gpt-divider-rectangle
