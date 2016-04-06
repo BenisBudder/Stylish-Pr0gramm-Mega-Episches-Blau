@@ -1,4 +1,4 @@
-#head-menu a:hover, #filter-link-name:hover, #user-profile-name:hover, .comment-reply-link, .tags-expand, .add-tags-link, .vote-up:hover, .vote-fav:hover, #search-submit-inline:hover, .tab-bar a:hover, .tab-bar a:active, .pict .vote-fav.faved, .head-link.empty:hover, .head-link:hover, .tag a[title="Removing tag"], .filter-setting.active, .active .filter-name, a.active, .faved, .voted-up .vote-up, .warn, #settings-logout-link, .action.expand-thread
+#head-menu a:hover, #filter-link-name:hover, #user-profile-name:hover, .comment-reply-link, .tags-expand, .add-tags-link, .vote-up:hover, .vote-fav:hover, #search-submit-inline:hover, .tab-bar a:hover, .tab-bar a:active, .pict .vote-fav.faved, .head-link.empty:hover, .head-link:hover, .tag a[title="Removing tag"], .filter-setting.active, .active .filter-name, a.active, .faved, .voted-up .vote-up, .warn, #settings-logout-link, .action.expand-thread, a[href='/inbox/unread'] .pict, a[href='/inbox/unread'] #inboxCount
 {
     color: #008fff !important;  
 }
