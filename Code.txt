@@ -16,13 +16,13 @@ a:hover, .tags-expand:hover, #settings-logout-link:hover, .action.expand-thread:
 	background: #008fff;
 }
 
-#filter-save:hover, input[value=Abschicken], .search-submit, input[value='Nachricht senden'], .user-follow, input[value='Einstellungen speichern'], input[value='E-Mail Adresse ändern'], input[value='Passwort ändern'], input[value='Einladung verschicken'], input[value='Tags speichern'], .user-comment-op, input[value='Anmelden'], input[value='Anmelden'], .confirm-button .product-select
+#filter-save:hover, input[value=Abschicken], .search-submit, input[value='Nachricht senden'], .user-follow, input[value='Einstellungen speichern'], input[value='E-Mail Adresse ändern'], input[value='Passwort ändern'], input[value='Einladung verschicken'], input[value='Tags speichern'], .user-comment-op, input[value='Anmelden'], input[value='Anmelden'], .confirm-button.product-select
 {
 	background: #008fff !important;
 	opacity:1;
 }
 
-input[type=submit]:hover, .user-follow:hover
+input[type=submit]:hover, .user-follow:hover, .confirm-button.product-select:hover
 {
 	background: #fff !important;
 }
@@ -55,10 +55,6 @@ input[type=submit]:hover, .user-follow:hover
 	width:0px;
 	height:0px;
 	padding: 8.9px 60px;
-	/*242 x 36
-	217,8 x 32,4
-	193,6 x 28,8
-	*/
 	background-image: url("http://cloud.directupload.net/plugins/imageviewer/site/direct.php?s=d250");
 	background-size: 120px 17.8px;
 	background-repeat: no-repeat;
