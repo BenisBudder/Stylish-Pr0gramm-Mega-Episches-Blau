@@ -1,4 +1,4 @@
-#head-menu a:hover, #filter-link-name:hover, #user-profile-name:hover, .comment-reply-link, .tags-expand, .add-tags-link, .vote-up:hover, .vote-fav:hover, #search-submit-inline:hover, .tab-bar a:hover, .tab-bar a:active, .pict .vote-fav.faved, .head-link.empty:hover, .head-link:hover, .tag a[title="Removing tag"], .filter-setting.active, .active .filter-name, a.active, .faved, .voted-up .vote-up, .warn, #settings-logout-link, .action.expand-thread, a[href='/inbox/unread'] .pict, a[href='/inbox/unread'] #inboxCount, .loader div
+#head-menu a:hover, #filter-link-name:hover, #user-profile-name:hover, .comment-reply-link, .tags-expand, .add-tags-link, .vote-up:hover, .vote-fav:hover, #search-submit-inline:hover, .tab-bar a:hover, .tab-bar a:active, .pict .vote-fav.faved, .head-link.empty:hover, .head-link:hover, .tag a[title="Removing tag"], .filter-setting.active, .active .filter-name, a.active, .faved, .voted-up .vote-up, .warn, #settings-logout-link, .action.expand-thread, a[href='/inbox/unread'] .pict, a[href='/inbox/unread'] #inboxCount, .loader div, #key-indicator
 {
     color: #008fff !important;  
 }
@@ -11,12 +11,12 @@ a:hover, .tags-expand:hover, #settings-logout-link:hover, .action.expand-thread:
 }
 
 
-.confirm, .confirm-button, .loader div
+.confirm, .confirm-button
 {
 	background: #008fff;
 }
 
-#filter-save:hover, input[value=Abschicken], .search-submit, input[value='Nachricht senden'], .user-follow, input[value='Einstellungen speichern'], input[value='E-Mail Adresse ändern'], input[value='Passwort ändern'], input[value='Einladung verschicken'], input[value='Tags speichern'], .user-comment-op, input[value='Anmelden'], input[value='Anmelden'], .confirm-button.product-select
+#filter-save:hover, input[value=Abschicken], .search-submit, input[value='Nachricht senden'], .user-follow, input[value='Einstellungen speichern'], input[value='E-Mail Adresse ändern'], input[value='Passwort ändern'], input[value='Einladung verschicken'], input[value='Tags speichern'], .user-comment-op, input[value='Anmelden'], input[value='Anmelden'], .confirm-button.product-select, .loader div
 {
 	background: #008fff !important;
 	opacity:1;
