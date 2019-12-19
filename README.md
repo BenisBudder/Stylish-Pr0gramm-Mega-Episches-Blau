@@ -16,7 +16,5 @@ z.B.:
 
 > Applies to "URL preffex" "pr0gramm.com"
 
-etc.
-
 Es werden nach und nach Updates kommen. Viel Spaß damit! :)
 Solltet ihr fragen haben, könnt ihr hier gerne eine Request/Issue aufmachen oder mich auf dem Pr0 anschreiben.
