@@ -1,71 +1,81 @@
-#head-menu a:hover, #filter-link-name:hover, #user-profile-name:hover, .comment-reply-link, .tags-expand, .add-tags-link, .vote-up:hover, .vote-fav:hover, #search-submit-inline:hover, .tab-bar a:hover, .tab-bar a:active, .pict .vote-fav.faved, .head-link.empty:hover, .head-link:hover, .tag a[title="Removing tag"], .filter-setting.active, .active .filter-name, a.active, .faved, .voted-up .vote-up, .warn, #settings-logout-link, .action.expand-thread, a[href='/inbox/unread'] .pict, a[href='/inbox/unread'] #inboxCount, .loader div, #key-indicator
+@-moz-document domain('pr0gramm.com')
 {
-    color: #008fff !important;  
-}
+  #head-menu a:hover, #filter-link-name:hover, #user-profile-name:hover, .comment-reply-link, .tags-expand, .add-tags-link, .vote-up:hover, .vote-fav:hover, #search-submit-inline:hover, .tab-bar a:hover, .tab-bar a:active, .pict .vote-fav.faved, .head-link.empty:hover, .head-link:hover, .tag a[title="Removing tag"], .filter-setting.active, .active .filter-name, a.active, .faved, .voted-up .vote-up, .warn, #settings-logout-link, .action.expand-thread, a[href='/inbox/unread'] .pict, a[href='/inbox/unread'] #inbox-count, #key-indicator, .fold.action, .item-report, .comment-report, .pict.vote-cfav:hover
+  {
+    color: #008fff !important;
+  }
 
-/*a[href='/inbox/unread']*/
+  .confirm-button:hover
+  {
+    color: #000 !important;
+  }
 
-a:hover, .tags-expand:hover, #settings-logout-link:hover, .action.expand-thread:hover
-{
-	color: #FFF !important;
-}
+  a:hover, .tags-expand:hover, #settings-logout-link:hover, .action.expand-thread:hover, .fold.action:hover, .item-report:hover, .comment-report:hover
+  {
+    color: #FFF !important;
+  }
 
+  .confirm, .confirm-button, #loader div
+  {
+    background: #008fff;
+  }
 
-.confirm, .confirm-button
-{
-	background: #008fff;
-}
+  input[value=Abschicken], .search-submit, input[value='Nachricht senden'], .user-follow, input[value='Einstellungen speichern'], input[value='E-Mail Adresse ändern'], input[value='Passwort ändern'], input[value='Einladung verschicken'], input[value='Tags speichern'], .user-comment-op, input[value='Anmelden'], .confirm-button.product-select, input[value='Bild Hochladen']
+  {
+    background: #008fff !important;
+    opacity: 1;
+  }
 
-#filter-save:hover, input[value=Abschicken], .search-submit, input[value='Nachricht senden'], .user-follow, input[value='Einstellungen speichern'], input[value='E-Mail Adresse ändern'], input[value='Passwort ändern'], input[value='Einladung verschicken'], input[value='Tags speichern'], .user-comment-op, input[value='Anmelden'], input[value='Anmelden'], .confirm-button.product-select, .loader div
-{
-	background: #008fff !important;
-	opacity:1;
-}
+  #filter-save:hover, .user-follow:hover, .confirm-button.product-select:hover, input[value='Einladung verschicken']:hover, input[value='E-Mail Adresse ändern']:hover, input[value='Passwort ändern']:hover, input[value='Einstellungen speichern']:hover, input[value='Anmelden']:hover, input[value='Tags speichern']:hover, input[value=Abschicken]:hover, input[value='Nachricht senden']:hover, input[value='Einladung verschicken']:hover, input[value='Bild Hochladen']:hover, .secret-santa-submit:hover
+  {
+    background: #fff !important;
+  }
 
-input[type=submit]:hover, .user-follow:hover, .confirm-button.product-select:hover
-{
-	background: #fff !important;
-}
+  input[value='Bild Hochladen']:disabled
+  {
+    background: #5e5e5e !important;
+  }
 
-#filter-save
-{
-	background: #008fff !important;
-	opacity:0.7;
-}
+  #filter-save
+  {
+    background: #008fff !important;
+  }
 
-.stream-prev .stream-prev-icon, .stream-next .stream-next-icon
-{
-	background: #008fff !important;
-}
+  .stream-prev .stream-prev-icon, .stream-next .stream-next-icon, .secret-santa-submit
+  {
+    background: #008fff !important;
+  }
 
-.filter-setting.active .filter-check
-{
-	background: #008fff !important;
-	border-color:#008fff !important;
-}
+  .filter-setting.active .filter-check
+  {
+    background: #008fff !important;
+    border-color: #008fff !important;
+  }
 
-#upload-droparea
-{
+  #upload-droparea
+  {
     border: 1px #008fff solid !important;
-}
+  }
 
-#pr0gramm-logo
-{
-  /*content:url("http://cloud.directupload.net/plugins/imageviewer/site/direct.php?s=d250") !important;	*/
-	width:0px;
-	height:0px;
-	padding: 8.9px 60px;
-	background-image: url("http://cloud.directupload.net/plugins/imageviewer/site/direct.php?s=d250");
-	background-size: 120px 17.8px;
-	background-repeat: no-repeat;
-}
+  #pr0gramm-logo
+  {
+    width: 0px;
+    height: 0px;
+    padding: 8.9px 65px;
+    background-image: url("http://cloud.directupload.net/plugins/imageviewer/site/direct.php?s=d250");
+    background-size: 122px 18px;
+    background-repeat: no-repeat;
+    margin-top: 4px;
+    margin-left: 1px;
+  }
 
-#gpt-divider-rectangle
-{
-	display:none !important;
-}
+  #pr0gramm-logo-type, #pr0gramm-logo-background, #pr0gramm-logo-sign
+  {
+    display: none;
+  }
 
-.confirm-button:hover
-{
-	color: #000 !important;
+  #gpt-divider-rectangle
+  {
+    display: none !important;
+  }
 }
