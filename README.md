@@ -18,5 +18,5 @@ z.B.:
 
 etc.
 
-Es werden immer wieder Updates kommen, da Gamb versucht mein CSS änderungen zu unterdrücken.
-Da er mit der Styling-Funktion natürlich durch Premium Geld verdient.
+Es werden nach und nach Updates kommen. Viel Spaß damit! :)
+Solltet ihr fragen haben, könnt ihr hier gerne eine Request/Issue aufmachen oder mich auf dem Pr0 anschreiben.
